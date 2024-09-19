@@ -9,7 +9,4 @@
     <HeaderBase/>
 
     <slot />
-
-    
-
 </div>
