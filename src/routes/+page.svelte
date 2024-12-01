@@ -21,7 +21,7 @@
 </div>
 
 <!-- Video Tutorial -->
-<div class="m-auto max-w-5xl flex justify-center p-10">
+<div class="m-auto max-w-5xl flex justify-center p-10 my-20">
     <iframe width="1000" height="563" src="https://www.youtube.com/embed/LFgAy1df6Ic" title="YouTube Short video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

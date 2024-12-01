@@ -2,7 +2,7 @@
 
 <div class="flex gap-10 max-w-7xl m-auto mt-10 justify-center">
 
-    <a href="/">
+    <a href="/vote-portal/presidential">
         <div class="border-2 w-96 h-[500px] rounded-xl bg-gray-200 border-gray-300 p-4 justify-start items-center flex flex-col hover:scale-105 transition-all">
             <div class="h-1/2">
                 <h2 class="text-3xl font-bold text-center text-old-glory-blue">Presidential Election</h2>
@@ -15,7 +15,7 @@
         </div>
     </a>
 
-    <a href="/">
+    <a href="/vote-portal/house-and-senate">
         <div class="border-2 w-96 h-[500px] rounded-xl bg-gray-200 border-gray-300 p-4 justify-start items-center flex flex-col hover:scale-105 transition-all">
             <div class="h-1/2">
                 <h2 class="text-3xl font-bold text-center text-old-glory-blue">House and Senate Election</h2>
@@ -31,10 +31,10 @@
         </div>
     </a>
 
-    <a href="/">
+    <a href="/vote-portal/state-and-local">
         <div class="border-2 w-96 h-[500px] rounded-xl bg-gray-200 border-gray-300 p-4 justify-start items-center flex flex-col hover:scale-105 transition-all">
             <div class="h-1/2">
-                <h2 class="text-3xl font-bold text-center text-old-glory-blue">State Elections and Laws</h2>
+                <h2 class="text-3xl font-bold text-center text-old-glory-blue">State and Local Elections</h2>
                 <p class="mt-4 text-center text-gray-700">
                     Participate in state-level elections and referendums. Vote on governors, state representatives, and important state laws.
                 </p>
