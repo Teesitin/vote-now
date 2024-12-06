@@ -10,7 +10,7 @@
         <a href="/" class="text-lg hover:text-old-glory-red">Election Laws</a>
         <a href="/" class="text-lg hover:text-old-glory-red">Electoral College</a>
         <a href="/" class="text-lg hover:text-old-glory-red">Results</a>
-        <button class="flex justify-center items-center bg-old-glory-red p-3 rounded-xl text-white font-bold ml-4 hover:bg-old-glory-blue">VOTE NOW</button>
+        <a href="/vote-portal" class="flex justify-center items-center bg-old-glory-red p-3 rounded-xl text-white font-bold ml-4 hover:bg-old-glory-blue">VOTE NOW</a>
     </div>
 
 </div>
