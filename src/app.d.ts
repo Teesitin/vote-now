@@ -8,6 +8,13 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	type Candidates = {
+		name: string;
+		party: string;
+		color: string;
+		portrait?: string;
+	}
 }
 
 export {};

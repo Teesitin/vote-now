@@ -4,9 +4,6 @@
 </script>
 
 
-<div class="bg-gray-100 min-h-screen">
+<HeaderBase/>
 
-    <HeaderBase/>
-
-    <slot />
-</div>
+<slot />
